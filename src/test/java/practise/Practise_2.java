@@ -12,6 +12,7 @@ public class Practise_2 {
 		System.out.println("hello welcome to selenium");
 		System.out.println("Pull");
 		System.out.println("push");
+		System.out.println("hi Srikakulam");
 	}
 
 }
