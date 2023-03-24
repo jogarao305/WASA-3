@@ -10,6 +10,8 @@ public class Practise_2 {
 	{
 		System.out.println("...hii...");
 		System.out.println("hello welcome to selenium");
+		System.out.println("Pull");
+		System.out.println("push");
 	}
 
 }
