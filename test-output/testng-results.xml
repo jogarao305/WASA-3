@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-03-22T12:29:00 IST" name="Default suite" finished-at="2023-03-22T12:29:00 IST" duration-ms="111">
+  <suite started-at="2023-03-24T12:49:06 IST" name="Default suite" finished-at="2023-03-24T12:49:06 IST" duration-ms="406">
     <groups>
     </groups>
-    <test started-at="2023-03-22T12:29:00 IST" name="Default test" finished-at="2023-03-22T12:29:00 IST" duration-ms="111">
-      <class name="practise.Practise_2">
-        <test-method signature="demon()[pri:0, instance:practise.Practise_2@3541cb24]" started-at="2023-03-22T12:29:00 IST" name="demon" finished-at="2023-03-22T12:29:00 IST" duration-ms="17" status="PASS">
+    <test started-at="2023-03-24T12:49:06 IST" name="Default test" finished-at="2023-03-24T12:49:06 IST" duration-ms="406">
+      <class name="demopack.Commitprogram">
+        <test-method signature="sample()[pri:0, instance:demopack.Commitprogram@1bb266b3]" started-at="2023-03-24T12:49:06 IST" name="sample" finished-at="2023-03-24T12:49:06 IST" duration-ms="221" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- demon -->
-      </class> <!-- practise.Practise_2 -->
+        </test-method> <!-- sample -->
+      </class> <!-- demopack.Commitprogram -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
