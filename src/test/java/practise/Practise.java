@@ -9,6 +9,8 @@ public class Practise {
 	public void run()
 	{
 		System.out.println("hello");
+		System.out.println("hi Srikakulam");
+
 	}
 
 }
