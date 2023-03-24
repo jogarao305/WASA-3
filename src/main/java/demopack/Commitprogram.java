@@ -8,6 +8,7 @@ public class Commitprogram {
 	public void sample()
 	{
 		System.out.println("pull operation");
+		System.out.println("1");
 	}
 	
 }
