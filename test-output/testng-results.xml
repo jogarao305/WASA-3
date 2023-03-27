@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-03-24T14:25:20 IST" name="Default suite" finished-at="2023-03-24T14:25:20 IST" duration-ms="66">
+  <suite started-at="2023-03-27T12:27:15 IST" name="Default suite" finished-at="2023-03-27T12:27:15 IST" duration-ms="111">
     <groups>
     </groups>
-    <test started-at="2023-03-24T14:25:20 IST" name="Default test" finished-at="2023-03-24T14:25:20 IST" duration-ms="66">
-      <class name="demopack.Commitprogram">
-        <test-method signature="sample()[pri:0, instance:demopack.Commitprogram@d4342c2]" started-at="2023-03-24T14:25:20 IST" name="sample" finished-at="2023-03-24T14:25:20 IST" duration-ms="13" status="PASS">
+    <test started-at="2023-03-27T12:27:15 IST" name="Default test" finished-at="2023-03-27T12:27:15 IST" duration-ms="111">
+      <class name="demopack.Sample">
+        <test-method signature="Demo()[pri:0, instance:demopack.Sample@d4342c2]" started-at="2023-03-27T12:27:15 IST" name="Demo" finished-at="2023-03-27T12:27:15 IST" duration-ms="17" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- sample -->
-      </class> <!-- demopack.Commitprogram -->
+        </test-method> <!-- Demo -->
+      </class> <!-- demopack.Sample -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
